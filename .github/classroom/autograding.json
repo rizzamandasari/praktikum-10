@@ -35,7 +35,7 @@
       "setup": "javac Jurnal03.java",
       "run": "java Jurnal03",
       "input": "7",
-      "output": "0\n12\n345\n6789\n012345\n67890\n1234567",
+      "output": "0\n12\n345\n6789\n01234\n567890\n1234567",
       "comparison": "included",
       "timeout": 10,
       "points": 15
