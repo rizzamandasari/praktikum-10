@@ -25,7 +25,7 @@
       "setup": "javac Jurnal03.java",
       "run": "java Jurnal03",
       "input": "5",
-      "output": "0\n1 2\n3 4 5\n6 7 8 9\n0 1 2 3 4",
+      "output": "0\n12\n345\n6789\n01234",
       "comparison": "included",
       "timeout": 10,
       "points": 20
@@ -35,7 +35,7 @@
       "setup": "javac Jurnal03.java",
       "run": "java Jurnal03",
       "input": "7",
-      "output": "0\n1 2\n3 4 5\n6 7 8 9\n0 1 2 3 4\n6 7 8 9 0\n1 2 3 4 5 6 7",
+      "output": "0\n12\n345\n6789\n01234\n67890\n1234567",
       "comparison": "included",
       "timeout": 10,
       "points": 20
@@ -65,7 +65,7 @@
       "setup": "javac TP02.java",
       "run": "java TP02",
       "input": "3",
-      "output": "    *\n   **\n  ***\n ****\n*****",
+      "output": "    *\n   **\n  ***,
       "comparison": "included",
       "timeout": 10,
       "points": 5
