@@ -65,7 +65,7 @@
       "setup": "javac TP02.java",
       "run": "java TP02",
       "input": "3",
-      "output": "  *\n  **\n***",
+      "output": "  *\n **\n***",
       "comparison": "included",
       "timeout": 10,
       "points": 5
